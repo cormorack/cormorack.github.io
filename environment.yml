@@ -1,0 +1,6 @@
+name: cormorackenv
+channels:
+  - conda-forge
+dependencies:
+  - rise
+  - ipykernel
